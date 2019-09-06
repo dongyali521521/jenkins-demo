@@ -1,4 +1,4 @@
-node('my-jnlp') {
+node('dongyali-jnlp') {
     stage('Prepare') {
         echo "1.Prepare Stage"
         checkout scm
