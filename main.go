@@ -8,6 +8,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, Kubernetes！I'm from Jenkins CI！33333")
+	fmt.Println("Hello, Kubernetes！I'm from Jenkins CI！5555")
 	fmt.Println("BRANCH_NAME:", os.Getenv("branch"))
 }
